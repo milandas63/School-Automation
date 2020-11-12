@@ -18,7 +18,7 @@ There will be 33 modules in the entire school Management System project divided 
   11) Certificate Issuance Module
 
 
-## PHASE - 2	
+### PHASE - 2	
 
   12) Examination Management (CCE)
   13) House & Activity Management
@@ -33,7 +33,7 @@ There will be 33 modules in the entire school Management System project divided 
   22) Syllabus Management
 
 
-## PHASE - 3
+### PHASE - 3
 
   23) House Keeping Management
   24) Infirmary Management
