@@ -4,18 +4,17 @@ School Management System 2020
 There will be 33 modules in the entire school Management System project divided into 3 phases for development. Each phase will contain 11 modules.
 
 PHASE - 1
-
-  1 Dashboard Management				
-  2 User Setup Management				
-  3 Pre-Admission Management				
-  4 Admission Management				
-  5 Student Management				
-  6 Fee Management				
-  7 Establishment Management				
-  8 Library Management				
-  9 Time-Table Management				
-  10 Asset & Inventory Management				
-  11 Certificate Issuance Module				
+  1 Dashboard Management
+  2 User Setup Management
+  3 Pre-Admission Management
+  4 Admission Management
+  5 Student Management
+  6 Fee Management
+  7 Establishment Management
+  8 Library Management
+  9 Time-Table Management
+  10 Asset & Inventory Management
+  11 Certificate Issuance Module
 
 
 PHASE - 2	
