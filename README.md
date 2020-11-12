@@ -20,29 +20,29 @@ PHASE - 1
 
 PHASE - 2	
 
-  12 Examination Management (CCE)
-  13 House & Activity Management
-  14 Transport Management
-  15 Front Office Management
-  16 Employees Management
-  17 Payroll Management
-  18 Financial Activities Management
-  19 Utilities Management
-  20 Budgetary Planning & Management
-  21 Security Management
-  22 Syllabus Management
+  12) Examination Management (CCE)
+  13) House & Activity Management
+  14) Transport Management
+  15) Front Office Management
+  16) Employees Management
+  17) Payroll Management
+  18) Financial Activities Management
+  19) Utilities Management
+  20) Budgetary Planning & Management
+  21) Security Management
+  22) Syllabus Management
 
 
 PHASE - 3
 
-  23 House Keeping Management
-  24 Infirmary Management
-  25 Home-Work Management
-  26 Hostel Management
-  27 Configuration Management
-  28 Canteen Management & Meal Plan
-  29 Question Paper Generator
-  30 Session-End Processing Management
-  31 Customizable Reports Module
-  32 Compiling Compliance Reports
-  33 Tax Management
+  23) House Keeping Management
+  24) Infirmary Management
+  25) Home-Work Management
+  26) Hostel Management
+  27) Configuration Management
+  28) Canteen Management & Meal Plan
+  29) Question Paper Generator
+  30) Session-End Processing Management
+  31) Customizable Reports Module
+  32) Compiling Compliance Reports
+  33) Tax Management
