@@ -5,7 +5,7 @@ There will be 33 modules in the entire school Management System project divided 
 
 ### PHASE - 1
 
-  1) Dashboard Management
+  1) Android and Desktop Dashboard Management
   2) User Setup Management
   3) Pre-Admission Management
   4) Admission Management
